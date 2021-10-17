@@ -1,5 +1,9 @@
 # RocketCoordinateCheckerAPI
 An API designed for a hypothetical Rocket launching system.
+- Project is designed in VS2019.
+- Swagger is implemented for both documentation and TEST purposes.
+- Simply hit "F5"  on VS2019 and you will be able to execute all functions.
+
 
 Assuming that landing area has size of square 100x100 and landing platform has a size of a square 10x10 
 and it's top left corner starts at a position 5,5 (please assume that position 0,0 is located at 
@@ -21,6 +25,8 @@ API supports following features:
 
 
 
+TEST Screen :
+Whenever you execute the project in
 
 ![Screenshot_1](https://user-images.githubusercontent.com/49819371/137634204-51441bdd-1cd6-4636-9620-c8a9d82fb1c0.jpg)
 
