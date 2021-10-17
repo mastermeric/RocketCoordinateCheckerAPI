@@ -18,3 +18,9 @@ API supports following features:
 • library can return one of the following values: 'out of platform', 'clash', 'ok for landing'
 • more than one rocket can land on the same platform at the same time and rockets need to have at least one unit separation between their landing positions 
 • platform size can vary and should be configurable
+
+
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/49819371/137634204-51441bdd-1cd6-4636-9620-c8a9d82fb1c0.jpg)
+
