@@ -6,8 +6,7 @@ An API designed for a hypothetical Rocket launching system.
 
 
 
-TEST Screen :
-Whenever you execute the project in
+API TEST Screen :
 
 ![Screenshot_1](https://user-images.githubusercontent.com/49819371/137634204-51441bdd-1cd6-4636-9620-c8a9d82fb1c0.jpg)
 
