@@ -14,7 +14,7 @@ API TEST Screen :
 ----------------------------------------------------
 
 
-# HERE THE EXERCISE PAPAER OF THE SOLUTION : 
+# HERE THE EXERCISE PAPER OF THE SOLUTION : 
 
 ![image](https://user-images.githubusercontent.com/49819371/137800496-fad5f010-ff73-4ee3-834c-0c722d7c20d8.png)
 
